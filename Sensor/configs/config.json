@@ -1,0 +1,18 @@
+{
+    "id": 4,
+    "TYPE": "TEMPERATURE",
+    "UNIT": "degrees Celsius",
+    "VALUE_RANGE": [
+        -50,
+        100
+    ],
+    "NORMAL_RANGER": [
+        20,
+        30
+    ],
+    "WARNING_THRESHOLD": [
+        0,
+        45
+    ],
+    "DATA_SEND_FREQUENCY": 0.25
+}
